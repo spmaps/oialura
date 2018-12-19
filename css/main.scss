@@ -856,6 +856,20 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.big {
 			font-size: 1.35em;
 		}
+                 
+		&.langsel {
+                        background-color: _palette(border-bg);
+                        box-shadow: none !important;
+                        color: _palette(fg-bold) !important;
+
+                        &:hover {
+                                background-color: lighten(_palette(accent6, bg), 5) !important;
+                        }
+
+                        &:active {
+                                background-color: darken(_palette(accent6, bg), 5) !important;
+                        }
+                }
 
 		&.special {
 			background-color: _palette(accent6, bg);
