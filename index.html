@@ -3,22 +3,24 @@ layout: landing
 ---
 				<!-- Banner -->
 					<section id="banner">
+
+<div class="btn-group">
+  <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Right-aligned menu
+  </button>
+  <div class="dropdown-menu dropdown-menu-right">
+    <button class="dropdown-item" type="button">Action</button>
+    <button class="dropdown-item" type="button">Another action</button>
+    <button class="dropdown-item" type="button">Something else here</button>
+  </div>
+</div>
+
 						<div class="inner">
 							<h2>{{ site.title }}</h2>
 							<p>{{ site.description | markdownify }}</p>
 							<ul class="actions">
 								<li><a href="#" class="button special">Check Availability</a></li>
 							</ul>
-<div class="btn-group">
-  <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Select Language
-  </button>
-  <div class="dropdown-menu dropdown-menu-left">
-    <button class="dropdown-item" type="button">Italiano</button>
-    <button class="dropdown-item" type="button">English</button>
-    <button class="dropdown-item" type="button">Deutsch</button>
-  </div>
-</div>
 
 						</div>
 						<a href="#one" class="more scrolly">Learn More</a>
