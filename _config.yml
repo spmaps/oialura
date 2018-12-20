@@ -2,12 +2,12 @@
 #
 
 # Site settings
-title: Casa Oialura
+title: Paiara Pedone
 description: |
-  Casa Vacanza  
+  Casa di Vacanza  
   San Gregorio, (Patu) Provincia di Lecce  
   
-owner: Casa Oialura # or company name
+owner: Paiara Pedone # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: casaoialura@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog

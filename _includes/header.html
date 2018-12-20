@@ -10,12 +10,11 @@
             <li><a href="index.html">Home</a></li>
 	    {% assign pages_list = site.pages | where:"lang", page.lang %}
             {% for node in pages_list %}
+	    {% if node.title %}
             <li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+            {% endif %}
             {% endfor %}
-            <li><a href="#">Sign Up</a></li>
-            <li><a href="#">Log In</a></li>
-            <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
-                   class="icon fa-feed"> RSS Feed</a></li>
+            <li><a href="/contact.html">Contact</a></li>
           </ul>
         </div>
       </li>
