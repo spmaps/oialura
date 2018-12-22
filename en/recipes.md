@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: en
-title: recipes
+title: "The Famiglia Pedone" 
 ---
 ## Produzione Pedone
 
@@ -47,12 +47,21 @@ Nonna Pedone is very well versed in local cuisine. Here are some of the dishes s
 
 ### Fagioli
 Fry some onion and celery in a saucepan, add some tomato sauce and then add the (cooked) white beans. Serve with bread and Parmesan cheese.
-![](../images/fagioli.jpg){:.image.fit}
+![](../images/fagioli.jpg){:.image.centre}
 
 ### Wurze
 Fry some cabbage in olive oil with sausages, add parmesan cheese.
-![](../images/wurze.jpg){:.image.fit}
+![](../images/wurze.jpg){:.image.centre}
 
 ### Torta
 Beat some eggs and add then add artichokes. Pour into pastry that has been rolled and cooked for 5 mins.
-![](../images/torta.jpg){:.image.fit}
+![](../images/torta.jpg){:.image.centre}
+
+### Risotto
+Risotto comes in many flavours - this one is with vegetables and artichokes but others include: sausage, ham and mushroom.
+![](../images/risotto.jpg){:.image.centre}
+
+### Zabaione
+The Pedones start the day with a 'zabaione' - egg yolk mixed with sugar and espresso. Although Nonno Pedone takes his egg yolk straigtht, without coffee.
+
+![](../images/zabaione.jpg){:.image.centre}
