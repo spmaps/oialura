@@ -42,6 +42,7 @@ Nonna Pedone is very well versed in local cuisine. Here are some of the dishes s
 <div class="4u"><span class="image fit"><img src="../images/wurze.jpg" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="../images/cecci.jpg" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="../images/pasta6.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="../images/eggsoup.jpg" alt="" /></span></div>
 </div>
 </div>
 
@@ -53,7 +54,7 @@ Fry some onion and celery in a saucepan, add some tomato sauce and then add the 
 Fry some cabbage in olive oil with sausages, add parmesan cheese.
 ![](../images/wurze.jpg){:.image.centre}
 
-### Torta
+### Torta Karchoffi
 Beat some eggs and add then add artichokes. Pour into pastry that has been rolled and cooked for 5 mins.
 ![](../images/torta.jpg){:.image.centre}
 
@@ -65,3 +66,7 @@ Risotto comes in many flavours - this one is with vegetables and artichokes but 
 The Pedones start the day with a 'zabaione' - egg yolk mixed with sugar and espresso. Although Nonno Pedone takes his egg yolk straigtht, without coffee.
 
 ![](../images/zabaione.jpg){:.image.centre}
+
+### Torta di Pera e Chocolata
+Pear and chocolate cake: Recipe
+![](../images/tortapera.jpg){:.image.centre}
