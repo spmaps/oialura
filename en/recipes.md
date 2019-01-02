@@ -68,5 +68,13 @@ The Pedones start the day with a 'zabaione' - egg yolk mixed with sugar and espr
 ![](../images/zabaione.jpg){:.image.centre}
 
 ### Torta di Pera e Chocolata
-Pear and chocolate cake: Recipe
-![](../images/tortapera.jpg){:.image.centre}
+Pear and chocolate cake: Rub some butter into the base of the tin and sprinkle with flower. Warm 120g butter such that it melts. Mix 3 eggs together with 120g of sugar then mix in 140g of flour with half a sachet of yeast. Mix in half of the cut pear (soaked in rum) and chocolate as well as some orange zest. Add remaining pear slices on top and bake at 180 degrees.
+
+<div class="box alt">
+<div class="row uniform 50%">
+<div class="4u"><span class="image fit"><img src="../images/tortapera1.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="../images/tortapera2.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="../images/tortapera.jpg" alt="" /></span></div>
+</div>
+</div>
+
