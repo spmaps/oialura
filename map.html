@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Adult care & Mental health facilities lost to 'regeneration'</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css" />
+</head>
+<body>
+	<div id="map" style="width: 1500px; height: 1000px"></div>
+
+	<script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
+	<script>
+		var map = L.map('map').setView([39.795876, 18.349451], 13);
+
+
+		L.tileLayer('http://{s}.tiles.mapbox.com/v3/enrico-in-w.ka4k56fp/{z}/{x}/{y}.png',  { attribution: 'Map tiles &copy; <a href="http://mapbox.com">MapBox</a>' }).addTo(map);
+
+		var LeafIcon = L.Icon.extend({
+			options: {
+				shadowUrl: 'img/savillsshadow.png',
+				iconSize:     [38, 95],
+				shadowSize:   [50, 64],
+				iconAnchor:   [22, 94],
+				shadowAnchor: [4, 62],
+				popupAnchor:  [-3, -76]
+			}
+		});
+
+		var greenIcon = new LeafIcon({iconUrl: 'img/savillssign.png'}),
+			redIcon = new LeafIcon({iconUrl: 'img/savillssign.png'}),
+			orangeIcon = new LeafIcon({iconUrl: 'img/savillssign.png'});
+
+		L.marker([39.813278, 18.316311]).addTo(map)
+	                .bindPopup('<img src="images/banner.jpg" width="100"></br>Paiara Pedone')
+			.openPopup();
+
+
+
+	</script>
+</body>
+</html>
+
