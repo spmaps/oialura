@@ -28,8 +28,7 @@ lang: de
 </section>
 <section>
 
-
-
+Paiara Pedone, Via Marco Polo 40, San Gregorio, Patu, Lecce 73053
 
 <section>
   <iframe src="../map.html" frameborder="0" allowfullscreen="true" width="100%" height="600"> </iframe>
