@@ -2,21 +2,21 @@
 #
 
 # Site settings
-title: Paiara Pedone
+title: Pajara Pedone
 description: |
   Casa Vacanza  
   San Gregorio, (Patu) Provincia di Lecce  
   
-owner: Paiara Pedone # or company name
+owner: Pajara Pedone # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: casaoialura@gmail.com
 baseurl: "/oialura" # the subpath of your site, e.g. /blog
 url: "http://spmaps.github.io/oialura/" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/paiarapedone
-  github: https://github.com/oialura
+  twitter: https://twitter.com/pajarapedone
+  github: https://github.com/spmaps
   linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/paiarapedone
+  facebook-official: https://facebook.com/pajarapedone
   google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
