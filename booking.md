@@ -4,7 +4,7 @@ lang: it
 title: "Controlla Disponibilità"
 ---
 ## APPARTAMENTO AL PRIMO PIANO
-### Disponibilità/Prenotazione - Selezionate data di arrivo e di partenza: 
+### Selezionate data di arrivo e di partenza: 
 <iframe src="/fullcalendar/demos/gcal.html" style="border: 0" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
 
 <div class="table-wrapper">
@@ -19,33 +19,33 @@ title: "Controlla Disponibilità"
    </thead>
    <tbody>
    <tr>
-   <td>1 May -> 31 May</td>
+   <td>1 Maggio -> 31 Maggio</td>
    <td>€263</td>
-   <td>11 Aug -> 24 Aug</td>
+   <td>11 Agosto -> 24 Agosto</td>
    <td>€595</td>
    </tr>
    <tr>
-   <td>1 June -> 29 June </td>
+   <td>1 Giugno -> 29 Giugno </td>
    <td>€309</td>
-   <td>25 Aug -> 31 Aug</td>
+   <td>25 Agosto -> 31 Agosto</td>
    <td>€555</td>
    </tr>
    <tr>
-   <td>30 June -> 20 July</td>
+   <td>30 Giugno -> 20 Luglio</td>
    <td>€401</td>
    <td>1 Sep -> 28 Sep</td>
    <td>€412</td>
    </tr>
    <tr>
-   <td>21 July -> 3 Aug</td>
+   <td>21 Luglio -> 3 Agosto</td>
    <td>€504</td>
-   <td>29 Sep -> 26 Oct</td>
+   <td>29 Settembre -> 26 Ottobre</td>
    <td>€275</td>
    </tr>
    <tr>
-   <td>4 Aug -> 10 Aug</td>
+   <td>4 Agosto -> 10 Agosto</td>
    <td>€573</td>
-   <td>1 Dec -> 4 Jan</td>
+   <td>1 Dicembre -> 4 Gennaio</td>
    <td>€286</td>
    </tr>
    </tbody>
@@ -67,33 +67,33 @@ title: "Controlla Disponibilità"
    </thead>
    <tbody>
    <tr>
-   <td>4 Jan -> 28 Feb</td>
+   <td>4 Gennaio -> 28 Febbraio</td>
    <td>€36/€250</td>
-   <td>24 Aug -> 30 Aug</td>
+   <td>24 Agosto -> 30 Agosto</td>
    <td>€43/€301</td>
    </tr>
    <tr>
-   <td>1 March -> 31 May</td>
+   <td>1 Marzo -> 31 Maggio</td>
    <td>€64/€450</td>
-   <td>31 Aug -> 27 Sep</td>
+   <td>31 Agosto -> 27 Settembre</td>
    <td>€100/€700</td>
    </tr>
    <tr>
-   <td>1 June -> 28 June </td>
+   <td>1 Giugno -> 28 Luglio </td>
    <td>€121/€850</td>
-   <td>28 Sept -> 1 Nov</td>
+   <td>28 Settembre -> 1 Novembre</td>
    <td>€114/€800</td>
    </tr>
    <tr>
-   <td>29 June -> 2 Aug</td>
+   <td>29 Giugno -> 2 Agosto</td>
    <td>€64/€450</td>
-   <td>2 Nov -> 29 Nov</td>
+   <td>2 Novembre -> 29 Novembre</td>
    <td>€50/€350</td>
    </tr>
    <tr>
-   <td>3 Aug -> 23 Aug</td>
+   <td>3 Agosto -> 23 Agosto</td>
    <td>€43/€301</td>
-   <td>30 Dec -> 3 Jan</td>
+   <td>30 Decembre -> 3 Gennaio</td>
    <td>€43/€301</td>
    </tr>
    </tbody>
