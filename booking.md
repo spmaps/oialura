@@ -52,7 +52,7 @@ title: "Controlla Disponibilità"
    </table>
 </div>
 
-## Ground floor apartment
+## Appartamento al piano terra
 <iframe src="/fullcalendar/demos/gcal.html" style="border: 0" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
 
  <div class="table-wrapper">
