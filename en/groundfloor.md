@@ -3,6 +3,9 @@ layout: page
 title: "Ground floor apartment"
 lang: en
 ---
+
+![](../images/trullopanorama.jpg.jpg){:width="100%"}
+
 The ground floor apartment is accessed via the large terrace to the left of the property.
 
 The accommodation comprises two bedrooms, bathroom, kitchen and generous lounge/dining area. The fireplace provides a central feature, which is built in the traditional style. 
