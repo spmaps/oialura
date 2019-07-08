@@ -4,7 +4,7 @@ title: "Ground floor apartment"
 lang: en
 ---
 
-![](../images/trullopanorama.jpg.jpg){:width="100%"}
+![](../images/trullopanorama.jpg){:width="100%"}
 
 The ground floor apartment is accessed via the large terrace to the left of the property.
 
