@@ -3,6 +3,9 @@ layout: page
 title: "APPARTAMENTO AL PIANO TERRA"
 lang: it
 ---
+
+![](../images/trullopanorama.jpg){:width="100%"}
+
 L'appartamento al piano terra e' accessibile dalla spaziosa terrazza con tettoia in legno che si trova a sinistra del trullo. L'alloggio comprende due stanze da letto, un bagno con doccia, un tinello, un'ampia area soggiorno con termocamino ideale nei mesi invernali.
 
 Il parcheggio è sicuro e si trova nell'area recintata privata accanto alla struttura.
