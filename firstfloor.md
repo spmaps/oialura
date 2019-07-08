@@ -4,6 +4,9 @@ title: "APPARTAMENTO AL PRIMO PIANO"
 subtitle: "Vista panoramica su la baia"
 lang: it
 ---
+
+![](../images/trullosottopanorama.jpg){:width="100%"}
+
 Al primo piano si accede tramite una scala esterna a destra della struttura. Dalle scale si arriva su di una meravigliosa terrazza con vista sulla baia di Felloniche. La terrazza gode dell'ombra di una tettoia in legno, due sedie a sdraio per rilassarsi all'esterno in estate, un tavolo con quattro sedie, da dove godersi l'alba mentre si fa colazione oppure il tramonto mentre si cena.
 
 <div class="box alt">
