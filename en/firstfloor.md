@@ -4,6 +4,9 @@ title: "First floor apartment"
 subtitle: "Panoramic sea views from a rural hillside setting"
 lang: en
 ---
+
+![](../images/trullosottopanorama.jpg){:width="100%"}
+
 The first floor apartment is accessed via a separate external staircase to the right of the property. These open out onto a large terrace area which overlooks the bay of Felloniche. The terrace has a small table and chairs and benefits from full shade cover, which makes it ideal for watching the sun rise while eating your breakfast or watching it set while eating your supper. 
 
 
