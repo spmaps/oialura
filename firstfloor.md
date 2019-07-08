@@ -8,7 +8,7 @@ Al primo piano si accede tramite una scala esterna a destra della struttura. Dal
 
 <div class="box alt">
 <div class="row uniform 50%">
-<div class="4u"><span class="image fit"><img src="./images/t2.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="./images/trullooverview.jpg" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="./images/t1.jpg" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="./images/pic03.jpg" alt="" /></span></div>
 </div>
