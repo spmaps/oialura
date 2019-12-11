@@ -3,49 +3,6 @@ layout: page
 lang: en
 title: "The Famiglia Pedone" 
 ---
-## Produzione Pedone
-
-Food growing is a central part of Pedone family life. As well as keeping chickens, rabbits and pigs, they grow a wide variety of vegetables: 
-
-
-<div class="box alt">
-<div class="row uniform 50%">
-<div class="4u"><span class="image fit"><img src="../images/veg1.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/veg2.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/veg3.jpg" alt="" /></span></div>
-</div>
-</div>
-
-
-## Pasta Pedone
-As well as growing vegetables, the Pedones also grow their own grain using a traditional grain type called 'xxxx' which is difficult to buy. They take their grain to the mill and make home-made pasta using the flour. Nonno Pedone Kneeds the pasta while Nonna Pedone rolls and cuts into into strips. This type of pasta is called 'Massa'.
-
-<div class="box alt">
-<div class="row uniform 50%">
-<div class="4u"><span class="image fit"><img src="../images/pasta1.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/pasta2.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/pasta3.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/pasta4.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/pasta5.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/pasta6.jpg" alt="" /></span></div>
-</div>
-</div>
-
-## Piatti Pedone
-Nonna Pedone is very well versed in local cuisine. Here are some of the dishes she cooks on a regular basis:
-
-<div class="box alt">
-<div class="row uniform 50%">
-<div class="4u"><span class="image fit"><img src="../images/fagioli.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/torta.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/koteletti.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/wurze.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/cecci.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/pasta6.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/eggsoup.jpg" alt="" /></span></div>
-</div>
-</div>
-
 ### Fagioli
 Fry some onion and celery in a saucepan, add some tomato sauce and then add the (cooked) white beans. Serve with bread and Parmesan cheese.
 ![](../images/fagioli.jpg){:.image.centre}
@@ -62,19 +19,8 @@ Beat some eggs and add then add artichokes. Pour into pastry that has been rolle
 Risotto comes in many flavours - this one is with vegetables and artichokes but others include: sausage, ham and mushroom.
 ![](../images/risotto.jpg){:.image.centre}
 
-### Zabaione
-The Pedones start the day with a 'zabaione' - egg yolk mixed with sugar and espresso. Although Nonno Pedone takes his egg yolk straigtht, without coffee.
+### Taieddhra
+Potatoes, rice, aubergines etc cooked in the oven (arroz al forno).
+![](https://blog.giallozafferano.it/incucinaconipazia/wp-content/uploads/2016/09/taieddhra-riso-patate-e-zucchine.png){:.image.centre}
 
-![](../images/zabaione.jpg){:.image.centre}
-
-### Torta di Pera e Chocolata
-Pear and chocolate cake: Rub some butter into the base of the tin and sprinkle with flower. Warm 120g butter such that it melts. Mix 3 eggs together with 120g of sugar then mix in 140g of flour with half a sachet of yeast. Mix in half of the cut pear (soaked in rum) and chocolate as well as some orange zest. Add remaining pear slices on top and bake at 180 degrees.
-
-<div class="box alt">
-<div class="row uniform 50%">
-<div class="4u"><span class="image fit"><img src="../images/tortapera1.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/tortapera2.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="../images/tortapera.jpg" alt="" /></span></div>
-</div>
-</div>
 
