@@ -19,9 +19,30 @@ Slightly rarer varieties:
 
 Extinct but being revived varieties:
 
-Marchione, Uva della Scala, Palumbo and Uva Attina. Antinello, Samarello Rosso.
+Marchione, Uva della Scala, Palumbo and Uva Attina. Antinello, Samarello Rosso, Cuccipanelli.
 
 Extinct:
-Cuccipanelli, Pier Domenico, Tamiarello and Maricchione.
+Pier Domenico, Tamiarello and Maricchione.
 
 ![](../images/cavallovina.jpg){:.image.centre}
+
+## Suggestions
+
+Discard rotten grapes..
+
+Make sure correct amount of sulphur dioxide is added.
+
+![](../images/va1.jpg){:.image.centre}
+
+![](../images/va2.jpg){:.image.centre}
+
+![](../images/va3.jpg){:.image.centre}
+
+Purchase a pneumatic sealing lid - a pump and sealing tube ensures that wine doesn't come into contact with oxygen.
+
+![](../images/vatlid.jpg){:.image.centre}
+
+
+
+
+
