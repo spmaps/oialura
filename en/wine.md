@@ -3,7 +3,7 @@ layout: page
 lang: en
 title: "Recipes" 
 ---
-### Winemaking
+### Types of Grape
 In Puglia, almost 40% of the regional acreage under vine was devoted to native grapes as of 2010. The main red native grape varieties in Puglia are:
 
 * Primitivo
@@ -26,6 +26,8 @@ Pier Domenico, Tamiarello and Maricchione.
 
 ![](../images/cavallovina.jpg){:.image.centre}
 
+See [vinidipuglia.com](http://vinidipuglia.com) for identifying types of grape from their leaf.
+
 ## Suggestions
 
 Discard rotten grapes..
@@ -41,6 +43,11 @@ Make sure correct amount of sulphur dioxide is added.
 Purchase a pneumatic sealing lid - a pump and sealing tube ensures that wine doesn't come into contact with oxygen.
 
 ![](../images/vatlid.jpg){:.image.centre}
+
+Buy [PH meter](https://www.angelhomebrew.co.uk/en/all-test-products/412-beverage-doctor-pen-style-digital-ph-meter.html) (£20) to keep a constant eye on the PH level and to know exactly how much SO2 to add.
+
+![](../images/phmeter.jpg){:.image.centre}
+
 
 
 
