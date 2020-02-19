@@ -54,12 +54,14 @@ Il sentiero passa attraverso paesaggi caratteristici della macchia mediterranea 
 </div>
 
 ## Canale del Ciolo
-A mile or so east of these 'borghi' is _Gagliano del Capo_, a slightly larger town from where one can access the _Ciolo_ trail - a path leading down through the Ciolo mountain valley to the Adriatic coast.
+Un paio di Km a est di Patu’ e Castrignano, si trova Gagliano del Capo, un borgo un po’ più’ grande dal quale di suo’ accedere al sentiero del Ciolo - un percorso panoramico pedonale particolarmente caratteristico che attraversa un canale di roccia calcarea e conduce sulla costa adriatica.
 
 ![](./images/ciolo.jpg){:.image.centre}
 
 ## le Grotte
-Travel one mile south along the coast and you will find la Grotta del Drago (The Dragon's Cave) and la Grotta degli inammorati (The Lovers' Cave) and la Grotta delle Tre Porte (3 Door Cave).
+A circa un chilometro a Sud-est del trullo, si trovano la Grotta Delle Tre Porte, la Grotta Degli Innamorati e la Grotta Del Drago, tutte accessibili soltanto via mare.
+
+Sul versante adriatico ci sono inoltre una serie di altre grotte stupende. Fra le più’ note: La Grotta Del Laghetto e La Grotta Del Soffio (raggiungibili in barca), che si trovano sulla costa tra Leuca e il Canale del Ciolo e poi risalendo la costa verso nord nella località’ di Marina di Andrano, si trova la spettacolare Grotta Verde.
 
 <div class="box alt">
 <div class="row uniform 50%">
@@ -71,7 +73,7 @@ Travel one mile south along the coast and you will find la Grotta del Drago (The
 
 
 ## Punta Ristola/Leuca
-Two miles to the south along the coast you will find _Punta Ristola_ and the town of Santa Maria de Leuca at the very tip of Italy's heel.
+Circa due KM a sud est del trullo si trova la piccola cittadina di Santa Maria di Leuca, sulla punta estrema della penisola salentina - de finibus terrae. Gli abitanti del luogo da sempre considerano punta Meliso il luogo dove il mare Ionio e il mare Adriatico si incontrano, anche se le cartine geografiche ufficiali individuano il punto d’incontro un po’ più’ a nord sul Canale d’Otranto.
 
 <div class="box alt">
 <div class="row uniform 50%">
@@ -82,7 +84,7 @@ Two miles to the south along the coast you will find _Punta Ristola_ and the tow
 </div>
 
 ## Torre Vado/Pali
-Travel one mile north along the coast and you will reach Torre Vado, an ancient fishing port with intact watch tower. From here northwards there are two miles of white sandy beaches until Torre Pali - another ancient fishing port with a partly submerged watch tower.
+Circa due KM a Ovest del Trullo, si trova Torre Vado, un antico porto di pescatori con una torre di avvistamento del 1500 rimasta intatta. Proseguendo sulla costa a Ovest, troverete Pescoluse con le sue distese di spiagge bianche e poi Torre Pali, un altro antico porticciolo di pescatori con una torre di avvistamento del ‘500 parzialmente sommersa dal mare.
 
 
 <div class="box alt">
