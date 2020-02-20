@@ -47,15 +47,36 @@ selectAllow: function(selectInfo) {
                      while (startDate <= trueendDate) {
                      days.push(startDate.toDate());
                      startDate = startDate.clone().add(1, 'd');
-                     if (startDate.isBetween('2019-05-01', '2019-06-01', null, '[]')) {
-			    pricearray.push(263);
+                     if (startDate.isBetween('2020-01-27', '2020-03-31', null, '[]')) {
+			    pricearray.push(20);
            		    }
-                     else if (startDate.isBetween('2019-06-01', '2019-06-29', null, '[]')) {
-			     pricearray.push(309);
+                     else if (startDate.isBetween('2020-04-01', '2020-04-30', null, '[]')) {
+			     pricearray.push(32);
 			     }
-			     else {
-				     pricearray.push(229);
+		     else if {startDate.isBetween('2020-05-01', '2020-05-31', null, '[]')) {
+			     pricearray.push(35);
 			     }
+		     else if {startDate.isBetween('2020-06-01', '2020-06-30', null, '[]')) {
+			     pricearray.push(50);
+			     }
+		     else if {startDate.isBetween('2020-07-01', '2020-07-31', null, '[]')) {
+			     pricearray.push(60);
+			     }
+		     else if {startDate.isBetween('2020-08-01', '2020-08-22', null, '[]')) {
+			     pricearray.push(73);
+			     }
+		     else if {startDate.isBetween('2020-08-23', '2020-08-31', null, '[]')) {
+			     pricearray.push(65);
+			     }
+		     else if {startDate.isBetween('2020-09-01', '2020-09-30', null, '[]')) {
+			     pricearray.push(50);
+			     }
+		     else if {startDate.isBetween('2020-10-01', '2020-10-31', null, '[]')) {
+			     pricearray.push(36);
+			     }
+		     else if {startDate.isBetween('2020-11-01', '2020-11-30', null, '[]')) {
+			     pricearray.push(32);
+		             } 
                    }
 		    pricearray.pop();
 		    var totalcost = pricearray.reduce(function (acc, price) {
