@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Estate": "Heygate",
+        "Demolished?": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0965595245361328,
+          51.49298065332454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Estate:": "Aylesbury",
+        "Demolished?": "Partially"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08265495300292969,
+          51.48624683086787
+        ]
+      }
+    }
+  ]
+}
