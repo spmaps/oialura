@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
+<link href='../fullcalendar.min.css' rel='stylesheet' />
+<link href='../fullcalendar.print.min.css' rel='stylesheet' media='print' />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+<script src='../lib/moment.min.js'></script>
+<script src='../lib/jquery.min.js'></script>
+<script src='../fullcalendar.min.js'></script>
+<script src='../gcal.min.js'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script>
+
+  $(document).ready(function() {
+    $('#calendar').fullCalendar({
+
+      selectOverlap : function(event) {
+      alert("Some or all of these dates are already booked!");
+      return false;
+    },
+      selectable: true,
+    
+selectAllow: function(selectInfo) {
+      return moment().diff(selectInfo.start) <= 0
+    },  
+        header: {
+        left: 'prev,next today',
+        center: 'title',
+        right: 'month,listYear'
+      },
+
+        select: function(startDate, endDate) {
+		var originalstartDate = startDate.clone();
+		var trueendDate = endDate.subtract(1, 'days');
+		var a = startDate;
+                var b = endDate;
+                var totaldays = b.diff(a, 'days') // 1
+                var sedates = $.fullCalendar.formatRange(startDate, endDate, 'DD MMM, YYYY');
+               
+                  
+                     var days = [];
+		     var pricearray = [];
+                     while (startDate <= trueendDate) {
+                     days.push(startDate.toDate());
+                     startDate = startDate.clone().add(1, 'd');
+                     if (startDate.isBetween('2020-02-01', '2020-02-29', null, '[]')) {
+			    pricearray.push(45);
+           		    }
+                     else if (startDate.isBetween('2020-03-01', '2020-03-31', null, '[]')) {
+			     pricearray.push(45);
+			     }
+		     else if (startDate.isBetween('2020-04-01', '2020-04-30', null, '[]')) {
+			     pricearray.push(45);
+			     }
+		     else if (startDate.isBetween('2020-05-01', '2020-05-31', null, '[]')) {
+			     pricearray.push(50);
+			     }
+		     else if (startDate.isBetween('2020-06-01', '2020-06-30', null, '[]')) {
+			     pricearray.push(65);
+			     }
+		     else if (startDate.isBetween('2020-07-01', '2020-07-31', null, '[]')) {
+			     pricearray.push(87);
+			     }
+		     else if (startDate.isBetween('2020-08-01', '2020-08-22', null, '[]')) {
+			     pricearray.push(115);
+			     }
+		     else if (startDate.isBetween('2020-08-23', '2020-08-31', null, '[]')) {
+			     pricearray.push(100);
+			     }
+		     else if (startDate.isBetween('2020-09-01', '2020-09-30', null, '[]')) {
+			     pricearray.push(65);
+			     }
+		     else if (startDate.isBetween('2020-10-01', '2020-10-31', null, '[]')) {
+			     pricearray.push(65);
+		             }
+			     else if (startDate.isBetween('2020-11-01', '2020-11-30', null, '[]')) {
+			     pricearray.push(48);
+		             } 
+                   }
+		    pricearray.pop();
+		    var totalcost = pricearray.reduce(function (acc, price) {
+			    return acc + price;
+		    });
+
+                    console.log(days);
+                    console.log(pricearray);
+                    console.log(totalcost);
+
+
+		if (totaldays < 5) {
+		alert('Sorry, the minimum stay is 5 nights');
+			console.log(startDate);
+			console.log(endDate);
+		} else {
+			var confbox = confirm('Selected ' + totaldays + ' nights, from ' + sedates + '\nTotal cost: €' + totalcost + ' Euros', { buttons: { Ok: true, Cancel: false} });
+		 if (confbox == true)	{
+		
+                $('#myModal').modal('show');
+                $('input[name="selected_dates"]').val(sedates);
+                $('input[name="total_cost"]').val(totalcost);
+
+		 }
+			}
+		},
+
+      displayEventTime: false, // don't show the time column in list view
+
+      googleCalendarApiKey: 'AIzaSyD5rxCvkPYZNf3d4mzHTtxK345ZbPE4Rn4',
+      events:'toohkrkgvdk2ettibu7unnqdd0@group.calendar.google.com',
+
+
+      loading: function(bool) {
+        $('#loading').toggle(bool);
+      },
+
+    });
+
+  });
+
+</script>
+<style>
+
+  body {
+    margin: 40px 10px;
+    padding: 0;
+    font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+    font-size: 14px;
+  }
+
+  #loading {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  #calendar {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+</style>
+</head>
+<body>
+
+  <div id='loading'>loading...</div>
+
+  <div id='calendar'></div>
+
+
+<div class="modal" id="myModal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Booking request</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+     
+	      <form method="POST" action="https://formspree.io/casaoialura@gmail.com">
+
+		      <label class="col-form-label">Enter email:</label>
+		      <input type="email" name="email" placeholder="Your email" required></br>
+		      <label class="col-form-label">Selected dates:</label>
+		      <input type="text" name="selected_dates" readonly></br>
+		      <label class="col-form-label">Total cost: €</label>
+		      <input type="text" name="total_cost" readonly>
+     <input type="hidden" name="_next" value="../../en/thanks.html"/> 
+      </div>
+      <div class="modal-footer">
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+	      </form>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
