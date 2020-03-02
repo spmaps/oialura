@@ -105,12 +105,11 @@ selectAllow: function(selectInfo) {
 		},
 
       displayEventTime: false, // don't show the time column in list view
-
-      googleCalendarApiKey: 'AIzaSyA7wQ33jVpdx0sBXjEuUEWR2JV4RNFcJUk',
-
-      // First floor Trullo
-      events: 'casaoialura@gmail.com',
-
+      plugins: [ googleCalendarPlugin ],
+      googleCalendarApiKey: 'AIzaSyD5rxCvkPYZNf3d4mzHTtxK345ZbPE4Rn4',
+      events: {
+    googleCalendarId: 'toohkrkgvdk2ettibu7unnqdd0@group.calendar.google.com'
+  }
 
       loading: function(bool) {
         $('#loading').toggle(bool);
