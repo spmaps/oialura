@@ -4,6 +4,7 @@ lang: en
 title: Availability and Booking
 ---
 ## FIRST FLOOR APARTMENT:
+
 ![](/images/Tariffe_2020_1opianoTRULLO.png){:.image.centre}
 
 ### Select dates: 
@@ -13,6 +14,7 @@ title: Availability and Booking
 
 
 ## GROUND FLOOR APARTMENT:
+
 ![](/images/Tariffe2020_TrulloPianoTerra.png){:.image.centre}
 
 ### Select dates: 
