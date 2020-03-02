@@ -93,7 +93,7 @@ selectAllow: function(selectInfo) {
 			console.log(startDate);
 			console.log(endDate);
 		} else {
-			var confbox = confirm('Selected ' + totaldays + ' nights, from ' + sedates + '\nTotal cost: €' + totalcost + ' Euros', { buttons: { Ok: true, Cancel: false} });
+			var confbox = confirm('Selected ' + totaldays + ' nights, from ' + sedates, { buttons: { Ok: true, Cancel: false} });
 		 if (confbox == true)	{
 		
                 $('#myModal').modal('show');
@@ -165,9 +165,7 @@ selectAllow: function(selectInfo) {
 		      <label class="col-form-label">Enter email:</label>
 		      <input type="email" name="email" placeholder="Your email" required></br>
 		      <label class="col-form-label">Selected dates:</label>
-		      <input type="text" name="selected_dates" readonly></br>
-		      <label class="col-form-label">Total cost: €</label>
-		      <input type="text" name="total_cost" readonly>
+	              <input type="text" name="selected_dates" readonly></br>
      <input type="hidden" name="_next" value="../../en/thanks.html"/> 
       </div>
       <div class="modal-footer">
