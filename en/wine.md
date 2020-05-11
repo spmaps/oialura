@@ -26,6 +26,13 @@ Pier Domenico, Tamiarello and Maricchione.
 
 ![](../images/cavallovina.jpg){:.image.centre}
 
+## Notes
+Plenty of online winemaking manuals [here](https://morewinemaking.com/content/winemanuals).
+
+Extech PH testers have been mentioned as well as Milwaukee as being reliable.
+
+Need to by a hydrometer and tritrating tester..??
+
 See [vinidipuglia.com](http://vinidipuglia.com) for identifying types of grape from their leaf.
 
 ## Suggestions
